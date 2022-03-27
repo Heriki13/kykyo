@@ -1,0 +1,24 @@
+.geral h1{
+    font-size: 75px;
+    color: aquamarine;
+}
+
+.geral h2{
+    font-size: 80px;
+    color: aquamarine;
+    margin-top: 15%;
+}
+
+.geral h5{
+    font-size: 15px;
+    color: rgb(238, 28, 143);
+    margin-top: 19%;
+}
+
+.oq-1 {
+    width: 100%;
+}
+
+body {
+    background-color: rgb(2,3,50);
+}
